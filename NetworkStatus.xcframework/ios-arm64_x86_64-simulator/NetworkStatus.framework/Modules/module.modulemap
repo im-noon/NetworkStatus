@@ -1,0 +1,6 @@
+framework module NetworkStatus {
+  umbrella header "NetworkStatus.h"
+
+  export *
+  module * { export * }
+}
