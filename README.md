@@ -1,2 +1,2 @@
 # NetworkStatus
-NetworkStatus cocoapod framwork
+NetworkStatus cocoapod framework
